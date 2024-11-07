@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<UserDetails>
+	<User name = "Prokhor" tel ="+375 29 655 24 50" gmail = "iriwisiri@gmail.com"></User>
+	<User name = "Nikita" tel ="+375 29 813 19 52" gmail = "Nikita@gmail.com"></User>
+	<User name = "Bogdan" tel ="+375 44 714 45 54" gmail = "Kavetsky@gmail.com"></User>
+</UserDetails>

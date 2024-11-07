@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\UnitTestCalsTeach\bin\Debug\net8.0\UnitTestCalsTeach.exe
+C:\Users\user\source\repos\UnitTestCalsTeach\bin\Debug\net8.0\UnitTestCalsTeach.deps.json
+C:\Users\user\source\repos\UnitTestCalsTeach\bin\Debug\net8.0\UnitTestCalsTeach.runtimeconfig.json
+C:\Users\user\source\repos\UnitTestCalsTeach\bin\Debug\net8.0\UnitTestCalsTeach.dll
+C:\Users\user\source\repos\UnitTestCalsTeach\bin\Debug\net8.0\UnitTestCalsTeach.pdb
+C:\Users\user\source\repos\UnitTestCalsTeach\obj\Debug\net8.0\UnitTestCalsTeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\UnitTestCalsTeach\obj\Debug\net8.0\UnitTestCalsTeach.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\UnitTestCalsTeach\obj\Debug\net8.0\UnitTestCalsTeach.AssemblyInfo.cs
+C:\Users\user\source\repos\UnitTestCalsTeach\obj\Debug\net8.0\UnitTestCalsTeach.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UnitTestCalsTeach\obj\Debug\net8.0\UnitTestCalsTeach.dll
+C:\Users\user\source\repos\UnitTestCalsTeach\obj\Debug\net8.0\refint\UnitTestCalsTeach.dll
+C:\Users\user\source\repos\UnitTestCalsTeach\obj\Debug\net8.0\UnitTestCalsTeach.pdb
+C:\Users\user\source\repos\UnitTestCalsTeach\obj\Debug\net8.0\UnitTestCalsTeach.genruntimeconfig.cache
+C:\Users\user\source\repos\UnitTestCalsTeach\obj\Debug\net8.0\ref\UnitTestCalsTeach.dll
+C:\Users\user\source\repos\UnitTestCalsTeach\bin\Debug\net8.0\User.xml
